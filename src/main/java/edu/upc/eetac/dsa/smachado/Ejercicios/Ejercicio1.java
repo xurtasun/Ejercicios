@@ -1,7 +1,7 @@
 package edu.upc.eetac.dsa.smachado.Ejercicios;
 import java.io.*;
 /**
- * EJERCICIO 1
+ * EJERCICIO 2
  *
  */
 public class Ejercicio1
